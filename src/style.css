@@ -1,0 +1,12 @@
+@font-face {
+   font-family: 'InterstateBold';
+   src:  url('./InterstateBold.ttf') format('truetype');
+   font-weight: 600;
+   font-style: normal;
+ }
+
+.hello {
+  font-family: 'InterstateBold';
+  color: red;
+  background: lightblue;
+}
